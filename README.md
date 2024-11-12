@@ -21,14 +21,6 @@ I'm a passionate software Engineer with experience in **Java, PL/SQL**, and vari
   - Java with Selenium (Cognizant, May – June 2023)  
   - Software Testing Bootcamp (Udemy, Tarek Roshdy)  
 
----
-
-## 📊 GitHub Stats  
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yeswanth333&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yeswanth333&layout=compact&theme=radical)
-
----
 
 ## 📫 Contact Me  
 
