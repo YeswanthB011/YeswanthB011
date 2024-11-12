@@ -25,7 +25,7 @@ I'm a passionate software Engineer with experience in **Java, Python, PL/SQL**, 
 ## 📫 Contact Me  
 
 - **Email**: Yeswanthyes333@gmail.com  
-- **LinkedIn**: [[Your LinkedIn Profile](#)  ](https://www.linkedin.com/in/yeswanth-b-8748aa1a7/)
-- **GitHub**: [[Yeswanth333](#)](https://github.com/YeswanthB011)  
+- **LinkedIn**: (https://www.linkedin.com/in/yeswanth-b-8748aa1a7/)
+- **GitHub**: (https://github.com/YeswanthB011)  
 
 ---
