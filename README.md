@@ -7,7 +7,7 @@
 
 ## About Me  
 
-I'm a passionate software Engineer with experience in **Java, PL/SQL**, and various testing methodologies like **automation testing with Selenium, API testing using RESTAssured and Postman**, and web development. I enjoy solving complex problems, automating workflows, and exploring innovative solutions.  
+I'm a passionate software Engineer with experience in **Java, Python, PL/SQL**, and various testing methodologies like **automation testing with Selenium, API testing using RESTAssured and Postman**, and web development. I enjoy solving complex problems, automating workflows, and exploring innovative solutions.  
 
 ---
 
