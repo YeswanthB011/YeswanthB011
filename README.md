@@ -18,7 +18,7 @@ I'm a passionate software Engineer with experience in **Java, Python, PL/SQL**, 
 - **Web Development**: HTML, CSS, JavaScript  
 - **Version Control**: Git  
 - **Certifications**:  
-  - Java with Selenium (Cognizant, May – June 2023)  
+  - Java with Selenium Intern (Cognizant, May – June 2023)  
   - Software Testing Bootcamp (Udemy, Tarek Roshdy)  
 
 
